@@ -1,7 +1,5 @@
-#summary One-sentence summary of this page.
 #labels main
 Hello chess world!
 
 = Contents =
   * [CodeStyle Code Style rules]
-
