@@ -1,5 +1,4 @@
 #labels code-style
-=Code Style=
 Every committer should follow the code style rules.
 
 == Rules ==
